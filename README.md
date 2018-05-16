@@ -1,0 +1,2 @@
+# DCA
+ANOVA completamente aleatorizada
