@@ -12,9 +12,9 @@ Este script contiene los comandos necesarios para ejecutar un _análisis de vari
 
 El segundo ejemplo (DCA-2.csv), los datos corresponden a un factor, denominado "Tratamiento", con 27 niveles y las variables respuesta _pfamg_,	_pfrmg_,	_psamg_ y	_psrmg_.
 
-+ Variable respuesta: Peso fresco aéreo en miligramos (_pfamg_).
-                      Peso fresco radicular en miligramos (_pfrmg_).
-                      Peso seco aéreo en miligramos (_psamg_).
-                      Peso seco radicular en miligramos (_psrmg_).
++ Variables respuesta: Peso fresco aéreo en miligramos (_pfamg_), 
+                       peso fresco radicular en miligramos (_pfrmg_), 
+                       peso seco aéreo en miligramos (_psamg_) y 
+                       peso seco radicular en miligramos (_psrmg_).
 
 + Variable explicativa: Tratamiento.
