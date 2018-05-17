@@ -5,7 +5,16 @@ __Nota__: recuerde registrar sus datos con las variables en cada columna y las o
 
 ## Descripción 
 
-Este script contiene los comandos necesarios para ejecutar un _análisis de varianza unifactorial o completamente al azar_. Para este ejemplos los datos corresponder a un factor, denominado tratamiento, con 4 niveles y la variable respuesta _Peso_.  
+Este script contiene los comandos necesarios para ejecutar un _análisis de varianza unifactorial o completamente al azar_. Para este ejemplo (DCA.csv) los datos corresponden a un factor, denominado "Tratamiento#, con 4 niveles y la variable respuesta _Peso_.  
 
-+ Variable respuesta: Peso
++ Variable respuesta: Peso.
 + Variable explicativa: Tratamiento. 
+
+El segundo ejemplo (DCA-2.csv), los datos corresponden a un factor, denominado "Tratamiento", con 27 niveles y las variables respuesta _pfamg_,	_pfrmg_,	_psamg_ y	_psrmg_.
+
++ Variable respuesta: Peso fresco aéreo en miligramos (_pfamg_).
+                      Peso fresco radicular en miligramos (_pfrmg_).
+                      Peso seco aéreo en miligramos (_psamg_).
+                      Peso seco radicular en miligramos (_psrmg_).
+
++ Variable explicativa: Tratamiento.
